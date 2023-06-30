@@ -11,7 +11,7 @@ I wanted to impliment the game with one of my favorite anime, game, and card gam
 JavaScript, HTML, CSS...
 
 ## Getting Started:
-Link: https://tavy87.github.io/memory/
+Link: https://tavy87.github.io/memorycard/
 
 Game starts when link is open
 
