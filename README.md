@@ -6,6 +6,7 @@ Name: Gotta Match Em All
 I wanted to impliment the game with one of my favorite anime, game, and card game pokemon
 
 ## Screenshot: Images of your actual game.
+<img src="https://github.com/Tavy87/memorycard/blob/main/memorypokemon.png"/>
 
 ## Technologies Used:
 JavaScript, HTML, CSS...
