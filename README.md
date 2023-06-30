@@ -14,7 +14,12 @@ JavaScript, HTML, CSS...
 ## Getting Started:
 Link: https://tavy87.github.io/memorycard/
 
-Game starts when link is open
+Game starts as soon as link is open
 
 ## Next Steps:
 endGame: I would have like the end to blink game over or winner if all cards were matched before the timer
+
+timer: I think a sound for the last 10 seconds would be a good warning and a buzzer for the end of the game
+
+cards: Some type of animation to bring the card to life a would be fun
+
